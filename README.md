@@ -1,1 +1,3 @@
-# realtime-react-with-firebase
+# Realtime-React-with-Firebase
+
+"Realtime React with Firebase" by Ryan Florence...
