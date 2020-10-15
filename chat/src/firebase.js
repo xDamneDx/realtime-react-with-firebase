@@ -2,9 +2,10 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/database';
 import 'firebase/auth';
+import { API_key } from './API';
 
 const config = {
-  apiKey: "AIzaSyDRCFPgfCtotzBySXTYMfVmU4e4Q_a9jrM",
+  apiKey: API_key,
   authDomain: "chat-app-7b154.firebaseapp.com",
   databaseURL: "https://chat-app-7b154.firebaseio.com",
   projectId: "chat-app-7b154",
